@@ -9,6 +9,3 @@ This is an example of implementing Google's MVVM architecture using the android 
 Architecture components contain LiveData, ViewModel and Room.
 </br>Check out this article:</br>
 https://medium.com/@frl.sh1992/android-architecture-components-in-a-sample-project-28c668885482
-
-# In Future
-I will also add dagger2 to this project
